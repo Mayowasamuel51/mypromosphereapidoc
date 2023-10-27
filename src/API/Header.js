@@ -5,7 +5,7 @@
 function Header() {
     return ( 
         <div>
-            <h1>MYPROMOSPHERE API</h1>
+            <h1 className="font-bold pt-9">MYPROMOSPHERE API VERSION FOR  WEB</h1>
 
         </div>
     )
