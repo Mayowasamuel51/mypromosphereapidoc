@@ -14,6 +14,10 @@ function App() {
     {
       path: "/moblie",
       element:<div>moblie api </div>
+    },
+    {
+      path: "*",
+      element:<h1>NOT FOUND AGAIN</h1>
     }
   ]);
   return (
