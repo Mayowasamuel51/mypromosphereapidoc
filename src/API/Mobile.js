@@ -5,7 +5,8 @@ function Mobile() {
     return (
         <div>
             <div style={{ marginBottom: '300px' }}>
-                <Header />
+                {/* <Header /> */}
+                <h1 className="font-bold pt-9">MYPROMOSPHERE API VERSION FOR  MOBILE</h1>
                 <div>
                     <h3>list of  payment levels</h3>
                     7day ==== 4950

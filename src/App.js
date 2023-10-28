@@ -19,6 +19,11 @@ function App() {
         },
 
         {
+          path: "/mobile",
+          element: <Mobile />
+        },
+
+        {
           path: "/moblie",
           element: <Mobile />
         },
