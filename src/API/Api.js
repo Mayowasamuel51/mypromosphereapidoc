@@ -38,7 +38,7 @@ function Api() {
                                             /api/recommendationtop
                                         </td>
                                         <td class="whitespace-nowrap  px-6 py-4">GET</td>
-                                        <td class="whitespace-nowrap  px-6 py-4">  This carousel will showcase videos from the 28,000 high-paying  <br />individuals. the videos will be playing (but will be on muted)
+                                        <td class="whitespace-nowrap  px-6 py-4">  This carousel will showcase videos from the  16350 high-paying  <br />individuals. the videos will be playing (but will be on muted)
                                             <br />
                                             --header "Content-Type: application/json"
                                             <br />
